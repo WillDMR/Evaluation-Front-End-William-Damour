@@ -156,6 +156,7 @@ footer{
 }
 
 
+
 footer p{
     color: white;
     text-align: center;
@@ -164,6 +165,12 @@ footer p{
 .footer-first-part{
     border-bottom: solid 1px rgb(128, 128, 128);
     margin-bottom: 1vw;
+}
+
+.footer-first-part img{
+    width: 35%;
+    height: 35%;
+    margin-bottom: 20px;
 }
 
 .copyright{
