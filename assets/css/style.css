@@ -16,7 +16,7 @@ GENERALITES
 body {
     margin: 0;
     padding: 0;
-    background: url("../images/background.jpg") scroll no-repeat 50%;
+    background: url("../images/background.jpg") scroll repeat 50%;
     font-family: "Liberation", Garamond, Verdana, Serif;
 }
 
